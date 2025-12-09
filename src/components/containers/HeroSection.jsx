@@ -51,7 +51,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                     src={data.thumbImage}
                     alt={data.fullName}
                     height={150}
-                    width={150}
+                    width={130}
                     layout="responsive"
                     placeholder="blur"
                     blurDataURL={`data:image/svg+xml;base64,${toBase64(
