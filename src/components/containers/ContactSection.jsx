@@ -37,7 +37,7 @@ const ContactSection = () => {
           </p>
           <span className="inline-block h-1 w-20 rounded-full bg-primary bg-opacity-20"></span>
           <div className="contact-blocks mt-5 space-y-5">
-            <div className="contact-block card flex p-4 md:p-5">
+            {/* <div className="contact-block card flex p-4 md:p-5">
               <span className="icon mr-4 inline-flex h-16 w-16 shrink-0 grow-0 basis-16 items-center justify-center rounded-full bg-primary bg-opacity-10 text-3xl text-primary">
                 <RiPhoneLine />
               </span>
@@ -51,7 +51,7 @@ const ContactSection = () => {
                   </p>
                 ))}
               </div>
-            </div>
+            </div> */}
             <div className="contact-block card flex p-4 md:p-5">
               <span className="icon mr-4 inline-flex h-16 w-16 shrink-0 grow-0 basis-16 items-center justify-center rounded-full bg-primary bg-opacity-10 text-3xl text-primary">
                 <RiMailLine />
