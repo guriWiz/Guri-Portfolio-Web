@@ -30,7 +30,7 @@ const Portfolio = ({
             )}`}
           />
         </div>
-        <div className="portfolio-hovercontent absolute left-0 top-0 z-20 flex h-full w-full -translate-x-full transform items-center justify-center gap-4 overflow-hidden bg-grey bg-opacity-80 transition-all duration-500 group-hover:translate-x-0">
+        {/* <div className="portfolio-hovercontent absolute left-0 top-0 z-20 flex h-full w-full -translate-x-full transform items-center justify-center gap-4 overflow-hidden bg-grey bg-opacity-80 transition-all duration-500 group-hover:translate-x-0">
           {imagegallery.length ? (
             <button
               className="inline-flex h-10 min-h-0 w-10 items-center justify-center rounded-full bg-primary p-0 text-center text-lg text-grey"
@@ -50,8 +50,43 @@ const Portfolio = ({
           {url ? (
             <Link href={url}>
               <a
-                target="_blank"
+                target={"_blank"}
                 className="inline-flex h-10 min-h-0 w-10 items-center justify-center rounded-full bg-primary p-0 text-center text-lg text-grey"
+              >
+                <RiExternalLinkLine />
+              </a>
+            </Link>
+          ) : null}
+        </div> */}
+      </div>
+      <div className="portfolio-content mt-4 flex justify-between items-center">
+        <div className="flex flex-col">
+          <h5 className="mb-0">{title}</h5>
+          <p>{subtitle}</p>
+        </div>
+
+        <div className="portfolio-hovercontent flex flex-row">
+          {imagegallery.length ? (
+            <button
+              className="inline-flex h-10 min-h-0 w-10 items-center justify-center rounded-full bg-primary p-0 text-center text-lg text-grey"
+              onClick={() => setImageGalleryOpen(!imageGalleryOpen)}
+            >
+              <RiImageLine />
+            </button>
+          ) : null}
+          {videogallery.length ? (
+            <button
+              className="inline-flex h-10 min-h-0 w-10 items-center justify-center rounded-full bg-primary p-0 text-center text-lg text-grey ml-3"
+              onClick={() => setVideoGalleryOpen(!videoGalleryOpen)}
+            >
+              <RiVideoLine />
+            </button>
+          ) : null}
+          {url ? (
+            <Link href={url}>
+              <a
+                target={"_blank"}
+                className="inline-flex h-10 min-h-0 w-10 items-center justify-center rounded-full bg-primary p-0 text-center text-lg text-grey ml-3"
               >
                 <RiExternalLinkLine />
               </a>
@@ -59,15 +94,13 @@ const Portfolio = ({
           ) : null}
         </div>
       </div>
-      <div className="portfolio-content mt-4">
-        <h5 className="mb-0">{title}</h5>
-        <p>{subtitle}</p>
-      </div>
+
       {imagegallery && (
         <Portal>
           <FsLightbox toggler={imageGalleryOpen} sources={imagegallery} />
         </Portal>
       )}
+
       {videogallery && (
         <Portal>
           <FsLightbox toggler={videoGalleryOpen} sources={videogallery} />
