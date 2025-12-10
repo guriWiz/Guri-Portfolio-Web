@@ -4,8 +4,7 @@ import { useRouter } from "next/router";
 
 const Navigation = () => {
   const router = useRouter();
-  const checkroute =
-    router.route !== "/homepage2" && router.route !== "/homepage3";
+  const checkroute = false // router.route !== "/homepage2" && router.route !== "/homepage3";
 
   return (
     <nav className="flex-grow px-5 text-center">
