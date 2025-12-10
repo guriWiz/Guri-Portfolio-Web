@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "title": "Ui/Ux Design",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
-        "icon": "/icons/quill-pen-line.svg"
+        "title": "Web & API Development",
+        "text": "I design and build high-performance web applications using modern frameworks such as Django, FastAPI, Flask, Node.js, and React. My services include custom REST API development, backend architecture, database design, and full-stack web solutions tailored to your business needs.",
+        "icon": "/icons/web.svg"
     },
     {
         "id": 2,
-        "title": "Web Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
-        "icon": "/icons/code-s-slash-line.svg"
+        "title": "Data Analytics & Automation",
+        "text": "I help businesses make data-driven decisions through data cleaning, analysis, visualization, and automation. Using Python, SQL, and analytical tools, I transform raw data into actionable insights and build automated workflows that improve efficiency, accuracy, and overall operational performance for organizations.",
+        "icon": "/icons/graph.svg"
     },
     {
         "id": 3,
-        "title": "Mobile App Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
-        "icon": "/icons/smartphone-line.svg"
+        "title": "DevOps, Cloud & Deployment Services",
+        "text": "I deploy, scale, and optimize applications using Docker, CI/CD pipelines, AWS, Google Cloud, and Azure. Services include containerization, automated deployments, server optimization, and secure cloud infrastructure setup, ensuring high availability, faster delivery cycles, and robust system reliability across worldwide.",
+        "icon": "/icons/cloud.svg"
     }
 ]
