@@ -80,7 +80,8 @@ const PortfoliosSection = () => {
           </motion.div>
         ))}
       </motion.div>
-      {visiblePortfolios < data ? (
+
+      {(visiblePortfolios < data) && (visiblePortfolios.length !== 0) ? (
         <div className="mt-12 text-center">
           <button className="btn btn-small" onClick={() => handleLoadmore()}>
             <span>Load More</span>
