@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "title": "Higher School Graduation",
-        "meta": "Abc College.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2008 - 2010"
+        "title": "12th Standard",
+        "meta": "CBSE Board",
+        "text": "Completed 12th Standard under the CBSE Board in 2013.",
+        "year": "2015"
     },
     {
         "id": 2,
-        "title": "Bachelor of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2010 - 2014"
+        "title": "Bachelor's In Computer Applications (BCA)",
+        "meta": "Indira Gandhi National Open University",
+        "text": "Pursued a Bachelor's in Computer Applications (BCA) from Indira Gandhi National Open University from 2016 to 2020.",
+        "year": "2016- 2020"
     },
     {
         "id": 3,
-        "title": "Masters of Sciences",
-        "meta": "Def University.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2014 - 2016"
+        "title": "Master's In Computer Applications",
+        "meta": "Indira Gandhi National Open University",
+        "text": "Completed a Master's in Computer Applications from Indira Gandhi National Open University between 2020 and 2022.",
+        "year": "2020 - 2022"
     }
 ]
