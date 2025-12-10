@@ -1,16 +1,18 @@
 [
     {
         "id": 1,
-        "title": "Candle",
-        "subtitle": "Creative Candle Light",
-        "coverimage": "/images/portfolios/portfolio-image-19.jpg",
+        "title": "Minstein",
+        "subtitle": "Minstein is a Powerful, accurrate and cost-effective analytics for shopify stores of all sizes. With a suite of analytics tools, you can quickly and easily get instant answers to help your Store grow with actionable insights.",
+        "coverimage": "/images/projects/minstein/cover.png",
         "imagegallery": [
             "/images/portfolios/portfolio-image-lg-19.jpg",
             "/images/portfolios/portfolio-image-lg-18.jpg",
             "/images/portfolios/portfolio-image-lg-17.jpg"
         ],
-        "videogallery": false,
+        "videogallery": [
+            "https://www.youtube.com/watch?v=oDJCddq0na8"
+        ],
         "url": "https://dribbble.com",
-        "filters": ["react"]
+        "filters": ["python", "react"]
     }
 ]

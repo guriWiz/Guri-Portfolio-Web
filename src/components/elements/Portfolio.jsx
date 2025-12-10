@@ -59,13 +59,8 @@ const Portfolio = ({
           ) : null}
         </div> */}
       </div>
-      <div className="portfolio-content mt-4 flex justify-between items-center">
-        <div className="flex flex-col">
-          <h5 className="mb-0">{title}</h5>
-          <p>{subtitle}</p>
-        </div>
-
-        <div className="portfolio-hovercontent flex flex-row">
+      <div className="portfolio-content mt-4">
+        <div className="portfolio-hovercontent flex flex-row justify-end">
           {imagegallery.length ? (
             <button
               className="inline-flex h-10 min-h-0 w-10 items-center justify-center rounded-full bg-primary p-0 text-center text-lg text-grey"
@@ -92,6 +87,11 @@ const Portfolio = ({
               </a>
             </Link>
           ) : null}
+        </div>
+
+        <div className="flex flex-col">
+          <h5 className="mb-0">{title}</h5>
+          <p>{subtitle}</p>
         </div>
       </div>
 
