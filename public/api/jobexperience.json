@@ -1,23 +1,16 @@
 [
     {
         "id": 1,
-        "title": "UI/UX Designer",
-        "meta": "Abc Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2015 - 2017"
+        "title": "Back-End Developer",
+        "meta": "Concentrix Daksh Services Pvt. Ltd.",
+        "text": "My responsibilities included building and deploying scripts to automate routine tasks, scraping data on a daily basis, and managing systems by identifying and resolving bugs or errors. My role also involved optimising the performance of production systems to ensure they run efficiently, as well as moderating and proofreading content to maintain accuracy and quality.",
+        "year": "2020 - 2021"
     },
     {
         "id": 2,
-        "title": "Front-end Developer",
-        "meta": "Def Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2017 - 2019"
-    },
-    {
-        "id": 3,
-        "title": "Back-end Developer",
-        "meta": "Ghi Company.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2019 - Present"
+        "title": "Full Stack Developer ",
+        "meta": "Ideepeners Pvt. Ltd.",
+        "text": "I built and maintained the Minstein web application, which delivers analytics across Shopify, Google, and Facebook, and created methods to seamlessly connect to and fetch data from various APIs. I also developed an algorithmic trading solution and collaborated closely with cross-functional teams to integrate the backend with the frontend for smooth and efficient system performance.",
+        "year": "2021 - 2025"
     }
 ]
