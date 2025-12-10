@@ -5,7 +5,7 @@ import { RiCloseLine } from "react-icons/ri";
 
 const MobileNavigation = ({ changeState }) => {
   const router = useRouter();
-  const checkroute = true // router.route !== "/homepage2" && router.route !== "/homepage3";
+  const checkroute = false // router.route !== "/homepage2" && router.route !== "/homepage3";
 
   const handleClick = () => {
     changeState(false);
