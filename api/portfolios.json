@@ -16,7 +16,7 @@
             "https://www.youtube.com/watch?v=oDJCddq0na8"
         ],
         "url": "https://minstein.com",
-        "filters": ["python", "django", "react"]
+        "filters": ["python", "django", "html_n_css", "javascript"]
     },
     {
         "id": 2,
