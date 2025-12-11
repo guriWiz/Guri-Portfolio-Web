@@ -7,6 +7,7 @@ import MobileNavigation from "./MobileNavigation";
 import Navigation from "./Navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { Logo } from "../utils";
+import { MdEmail } from "react-icons/md";
 
 const Header = () => {
   const [sticky, setSticky] = useState(false);
@@ -64,9 +65,10 @@ const Header = () => {
               smooth="easeInQuad"
               offset={-74}
               duration={1000}
-              className="btn"
+              className="btn flex flex-row items-center"
             >
-              <span>Hire Me</span>
+              <MdEmail className="text-xl"/>
+              <span className="ml-2">Connect</span>
             </ScrollLink>
           </div>
         </div>

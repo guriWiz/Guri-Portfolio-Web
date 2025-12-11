@@ -2,6 +2,7 @@ import { Link as ScrollLink } from "react-scroll";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { RiCloseLine } from "react-icons/ri";
+import { MdEmail } from "react-icons/md";
 
 const MobileNavigation = ({ changeState }) => {
   const router = useRouter();
@@ -176,10 +177,11 @@ const MobileNavigation = ({ changeState }) => {
             smooth="easeInQuad"
             offset={-74}
             duration={1000}
-            className="btn btn-small"
+            className="btn btn-small flex flex-row items-center"
             onClick={() => handleClick()}
           >
-            <span>Hire Me</span>
+            <MdEmail className="text-xl"/>
+            <span className="ml-2">Connect</span>
           </ScrollLink>
         </div>
       </nav>
