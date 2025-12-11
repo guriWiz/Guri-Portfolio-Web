@@ -215,5 +215,20 @@
         "videogallery": false,
         "url": "https://github.com/guriWiz/Minstein-CLTV-Analysis",
         "filters": ["python"]
+    },
+    {
+        "id": 15,
+        "title": "Proto 1MG Scraper",
+        "subtitle": "Proto 1mg Scraper is a powerful web scraping tool that automatically extracts detailed information about medicines and health products from the 1mg website.",
+        "coverimage": "/images/projects/proto_1mg_scraper/cover.png",
+        "imagegallery": [
+            "/images/projects/proto_1mg_scraper/preview_1.png",
+            "/images/projects/proto_1mg_scraper/preview_2.png",
+            "/images/projects/proto_1mg_scraper/preview_3.png",
+            "/images/projects/proto_1mg_scraper/preview_4.png"
+        ],
+        "videogallery": false,
+        "url": "https://github.com/guriWiz/Proto-1mg-Scraper",
+        "filters": ["python"]
     }
 ]
