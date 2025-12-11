@@ -60,6 +60,14 @@ const AboutSection = () => {
 									Hi, I am <span className="text-primary">{data.fullName}</span>
 								</h3><br />
 								<ul className="styledlist">
+									{data.role && (
+										<li className="text-lg">
+											<strong className="inline-block min-w-[120px] font-medium">
+												Role{" "}
+											</strong>
+											: <span className="ml-5">{data.role}</span>
+										</li>
+									)}
 									{data.age && (
 										<li className="text-lg">
 											<strong className="inline-block min-w-[120px] font-medium">
@@ -84,20 +92,28 @@ const AboutSection = () => {
 											: <span className="ml-5">{data.address}</span>
 										</li>
 									)}
-									{data.freelance && (
+									{/* {data.freelance && (
 										<li className="text-lg">
 											<strong className="inline-block min-w-[120px] font-medium">
 												Freelance{" "}
 											</strong>
 											: <span className="ml-5">{data.freelance}</span>
 										</li>
-									)}
+									)} */}
 									{data.experience && (
 										<li className="text-lg">
 											<strong className="inline-block min-w-[120px] font-medium">
 												Experience{" "}
 											</strong>
 											: <span className="ml-5">{data.experience}+ years</span>
+										</li>
+									)}
+									{data.employment_status && (
+										<li className="text-lg">
+											<strong className="inline-block min-w-[120px] font-medium">
+												Status{" "}
+											</strong>
+											: <span className="ml-5">{data.employment_status}</span>
 										</li>
 									)}
 								</ul><br />

@@ -3,6 +3,7 @@
     "thumbImage": "/images/guri-portfolio-image.jpg",
     "largeImage": "/images/about-image.jpg",
     "bio": "With over 5 years of professional experience as a full-stack developer, I specialize in building robust, scalable applications using modern programming languages and frameworks. I thrive on solving complex problems, turning ideas into efficient solutions, and collaborating with cross-functional teams to deliver high-quality results. Driven, adaptable, and always eager to learn, I bring both technical expertise and a strong team-oriented mindset to every project.",
+    "role": "Full Stack Developer",
     "age": 28,
     "nationality": "Indian",
     "languages": [
@@ -13,6 +14,7 @@
     "address": "Delhi, India",
     "freelance": "Available",
     "experience": 5,
+    "employment_status": "Looking For Work",
     "socialAddress": {
         "facebook": "https://www.facebook.com/gurvindersingh.singh.792303/",
         "twitter": "https://twitter.com/IamGuriiii",
