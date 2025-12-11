@@ -119,7 +119,7 @@ const Homepage1 = ({ posts }) => {
         className="contact-section pt-24 lg:pt-28 xl:pt-32"
       >
         <div className="container mx-auto">
-          <SectionHeading title="Contact Us" watermark="Contact" />
+          <SectionHeading title="Let's Connect" watermark="Connect" />
           <ContactSection />
         </div>
       </Section>
