@@ -17,5 +17,23 @@
         ],
         "url": "https://minstein.com",
         "filters": ["python", "react"]
+    },
+    {
+        "id": 2,
+        "title": "Try It First",
+        "subtitle": "Try It First lets your customers experience products before committing to a purchase. With just one click, shoppers can request a trial item, test it at home, and only pay if they decide to keep it.",
+        "coverimage": "/images/projects/try_it_first/cover.png",
+        "imagegallery": [
+            "/images/projects/try_it_first/preview_1.png",
+            "/images/projects/try_it_first/preview_2.png",
+            "/images/projects/try_it_first/preview_3.png",
+            "/images/projects/try_it_first/preview_4.png",
+            "/images/projects/try_it_first/preview_5.png",
+            "/images/projects/try_it_first/preview_6.png",
+            "/images/projects/try_it_first/preview_7.png"
+        ],
+        "videogallery": false,
+        "url": "http://tryitfirst.in/",
+        "filters": ["python", "html_n_css", "javascript"]
     }
 ]

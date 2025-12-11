@@ -11,17 +11,32 @@
     },
     {
         "id": 3,
+        "title": "Javascript",
+        "value": "javascript"
+    },
+    {
+        "id": 4,
+        "title": "HTML & CSS",
+        "value": "html_n_css"
+    },
+    {
+        "id": 5,
         "title": "Django",
         "value": "django"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "FastAPI",
         "value": "fastapi"
     },
     {
-        "id": 5,
-        "title": "PostgreSQL",
-        "value": "postgresql"
+        "id": 7,
+        "title": "Scrapers",
+        "value": "scrapers"
+    },
+    {
+        "id": 8,
+        "title": "Bots",
+        "value": "bots"
     }
 ]
