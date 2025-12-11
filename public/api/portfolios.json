@@ -16,7 +16,7 @@
             "https://www.youtube.com/watch?v=oDJCddq0na8"
         ],
         "url": "https://minstein.com",
-        "filters": ["python", "react"]
+        "filters": ["python", "django", "react"]
     },
     {
         "id": 2,
@@ -34,6 +34,25 @@
         ],
         "videogallery": false,
         "url": "http://tryitfirst.in/",
-        "filters": ["python", "html_n_css", "javascript"]
+        "filters": ["python", "django", "html_n_css", "javascript"]
+    },
+    {
+        "id": 3,
+        "title": "ShopInsta - Instagram Feed",
+        "subtitle": "A Solution to showcase your Instagram content on your store. With its easy-to-use interface, you can add minimal and elegant Instagram feeds to your store in just a few clicks. You can build social proof and gain the trust of your potential customers.",
+        "coverimage": "/images/projects/shopinsta/cover.png",
+        "imagegallery": [
+            "/images/projects/shopinsta/preview_1.png",
+            "/images/projects/shopinsta/preview_2.png",
+            "/images/projects/shopinsta/preview_3.png",
+            "/images/projects/shopinsta/preview_4.png",
+            "/images/projects/shopinsta/preview_5.png",
+            "/images/projects/shopinsta/preview_6.png"
+        ],
+        "videogallery": [
+            "https://www.youtube.com/watch?v=1ZtRstg7gFQ"
+        ],
+        "url": false,
+        "filters": ["python", "django", "html_n_css", "javascript"]
     }
 ]
