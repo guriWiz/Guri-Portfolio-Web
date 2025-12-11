@@ -20,7 +20,7 @@ const MobileNavigation = ({ changeState }) => {
       >
         <RiCloseLine className="inline" />
       </button>
-      <nav className="relative max-h-full w-full overflow-y-auto">
+      <nav className="relative max-h-full w-full overflow-y-auto flex flex-col items-center justify-center">
         <ul className="mb-0 list-none pl-0">
           <li className="block">
             {checkroute ? (
@@ -169,7 +169,7 @@ const MobileNavigation = ({ changeState }) => {
             )}
           </li>
         </ul>
-        <div className="header-button pt-8">
+        <div className="header-button pt-8" style={{ width: '130px' }}>
           <ScrollLink
             activeClass="active"
             to="section-contact"
