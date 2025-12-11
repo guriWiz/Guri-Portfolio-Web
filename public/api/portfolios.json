@@ -128,5 +128,23 @@
         "videogallery": false,
         "url": "https://ospirax.com/",
         "filters": ["python", "fastapi", "react"]
+    },
+    {
+        "id": 9,
+        "title": "Jupiter Wise",
+        "subtitle": "Jupiter Wise is an AI-powered astrology app that guides your cosmic journey with personalized insights. Discover daily guidance, tailored predictions, and deeper clarity—all designed to help you navigate life with wisdom and confidence.",
+        "coverimage": "/images/projects/jupiter_wise/cover.png",
+        "imagegallery": [   
+            "/images/projects/jupiter_wise/preview_1.jpeg",
+            "/images/projects/jupiter_wise/preview_2.jpeg",
+            "/images/projects/jupiter_wise/preview_3.jpeg",
+            "/images/projects/jupiter_wise/preview_4.jpeg",
+            "/images/projects/jupiter_wise/preview_5.jpeg",
+            "/images/projects/jupiter_wise/preview_6.jpeg",
+            "/images/projects/jupiter_wise/preview_7.jpeg"
+        ],
+        "videogallery": false,
+        "url": "https://jupiterwise.in/",
+        "filters": ["python", "fastapi", "react"]
     }
 ]
