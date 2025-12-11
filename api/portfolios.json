@@ -70,5 +70,31 @@
         "videogallery": false,
         "url": false,
         "filters": ["python", "fastapi", "react"]
+    },
+    {
+        "id": 5,
+        "title": "International Export House",
+        "subtitle": "International Export House is well experienced company in the b2b trading is an online portal which helps the exporter and importer to connect in all over the world. We provide a platform where our verified suppliers showcase their product.",
+        "coverimage": "/images/projects/international_export_house/cover.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://internationalexporthouse.com/",
+        "filters": ["python", "fastapi", "react"]
+    },
+    {
+        "id": 6,
+        "title": "Newzy",
+        "subtitle": "Newzy is your all-in-one personalized news and daily horoscope app, designed for simplicity, speed, and relevance. Whether you're a news junkie or astrology lover, Newzy gives you fresh, meaningful content—right when you need it.",
+        "coverimage": "/images/projects/newzy/cover.png",
+        "imagegallery": [   
+            "/images/projects/newzy/preview_1.jpeg",
+            "/images/projects/newzy/preview_2.jpeg",
+            "/images/projects/newzy/preview_3.jpeg",
+            "/images/projects/newzy/preview_4.jpeg",
+            "/images/projects/newzy/preview_5.jpeg"
+        ],
+        "videogallery": false,
+        "url": "https://play.google.com/store/apps/details?id=universalcaptial.newzy",
+        "filters": ["python", "fastapi"]
     }
 ]
