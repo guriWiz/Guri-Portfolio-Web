@@ -54,5 +54,21 @@
         ],
         "url": false,
         "filters": ["python", "django", "html_n_css", "javascript"]
+    },
+    {
+        "id": 4,
+        "title": "Propdesk (Algo Trading Platform)",
+        "subtitle": "Propdesk is a algo trading software which optimizes proprietary desk operations, offering advanced algorithms for strategic trading, risk management, and maximizing returns in dynamic market environments with precision and agility.",
+        "coverimage": "/images/projects/propdesk_algo/cover.png",
+        "imagegallery": [   
+            "/images/projects/propdesk_algo/preview_1.png",
+            "/images/projects/propdesk_algo/preview_2.png",
+            "/images/projects/propdesk_algo/preview_3.png",
+            "/images/projects/propdesk_algo/preview_4.jpeg",
+            "/images/projects/propdesk_algo/preview_5.jpeg"
+        ],
+        "videogallery": false,
+        "url": false,
+        "filters": ["python", "fastapi", "react"]
     }
 ]
