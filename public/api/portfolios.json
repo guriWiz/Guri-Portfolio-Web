@@ -205,5 +205,15 @@
         "videogallery": false,
         "url": "https://github.com/guriWiz/vote_caste_system_v2",
         "filters": ["python", "django", "html_n_css"]
+    },
+    {
+        "id": 14,
+        "title": "Minstein CLTV Analysis",
+        "subtitle": "Minstein-CLTV-Analysis helps businesses understand and predict customer lifetime value with clear, data-driven insights—empowering smarter decisions, better retention strategies, and long-term growth.",
+        "coverimage": "/images/projects/minstein_cltv_analysis/cover.png",
+        "imagegallery": false,
+        "videogallery": false,
+        "url": "https://github.com/guriWiz/Minstein-CLTV-Analysis",
+        "filters": ["python"]
     }
 ]
