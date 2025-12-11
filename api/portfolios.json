@@ -187,5 +187,23 @@
         "videogallery": false,
         "url": "https://github.com/guriWiz/Vote_Caste_System",
         "filters": ["python", "django", "html_n_css"]
+    },
+    {
+        "id": 13,
+        "title": "Vote Caste System (v2)",
+        "subtitle": "Vote Caste System is a centralized digital platform that streamlines election administration by efficiently managing candidates, voters, and all key electoral processes in one place.",
+        "coverimage": "/images/projects/vote_caste_system_v2/cover.png",
+        "imagegallery": [   
+            "/images/projects/vote_caste_system_v2/preview_1.png",
+            "/images/projects/vote_caste_system_v2/preview_2.png",
+            "/images/projects/vote_caste_system_v2/preview_3.png",
+            "/images/projects/vote_caste_system_v2/preview_4.png",
+            "/images/projects/vote_caste_system_v2/preview_5.png",
+            "/images/projects/vote_caste_system_v2/preview_6.png",
+            "/images/projects/vote_caste_system_v2/preview_7.png"
+        ],
+        "videogallery": false,
+        "url": "https://github.com/guriWiz/vote_caste_system_v2",
+        "filters": ["python", "django", "html_n_css"]
     }
 ]
