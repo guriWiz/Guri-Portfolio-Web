@@ -21,12 +21,13 @@ const PortfoliosSection = () => {
   const handleFilter = useCallback(
     (value) => {
       setCurrentFilter(value);
+
       if (value === "") {
         setVisiblePortfolios(data.slice(0, pageNumber * 6));
       } else {
         setVisiblePortfolios(
           data
-            .slice(0, pageNumber * 6)
+            // .slice(0, pageNumber * 6)
             .filter((portfolio) => portfolio.filters.includes(value))
         );
       }
