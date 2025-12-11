@@ -118,7 +118,7 @@ const AboutSection = () => {
 									)}
 								</ul><br />
 								<div className="justify-between text-center">
-									<a href="/resume.pdf" className="btn mt-3">
+									<a href="/resume.pdf" target="_blank" className="btn mt-3">
 										<span>Download Resume</span>
 									</a>
 								</div>
