@@ -146,5 +146,18 @@
         "videogallery": false,
         "url": "https://jupiterwise.in/",
         "filters": ["python", "fastapi", "react"]
+    },
+    {
+        "id": 10,
+        "title": "Gigs By Bob",
+        "subtitle": "Hi, My name is Bob. I sends you instant Discord alerts so you can place bids on new Freelancer projects faster than anyone else. Stay ahead of the competition and never miss a valuable opportunity again.",
+        "coverimage": "/images/projects/gigs_by_bob/cover.png",
+        "imagegallery": [   
+            "/images/projects/gigs_by_bob/preview_1.png",
+            "/images/projects/gigs_by_bob/preview_2.png"
+        ],
+        "videogallery": false,
+        "url": "https://github.com/guriWiz/Gigs-By-Bob",
+        "filters": ["python", "bots"]
     }
 ]
