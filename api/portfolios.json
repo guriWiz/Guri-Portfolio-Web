@@ -159,5 +159,18 @@
         "videogallery": false,
         "url": "https://github.com/guriWiz/Gigs-By-Bob",
         "filters": ["python", "bots"]
+    },
+    {
+        "id": 11,
+        "title": "Gimlet GFI",
+        "subtitle": "Gimlet GFI delivers a fresh GitHub issue labeled “good first issue” to you every 24 hours, helping developers discover beginner-friendly tasks effortlessly.",
+        "coverimage": "/images/projects/gimlet_gfi/cover.png",
+        "imagegallery": [   
+            "/images/projects/gimlet_gfi/preview_1.png",
+            "/images/projects/gimlet_gfi/preview_2.png"
+        ],
+        "videogallery": false,
+        "url": "https://github.com/guriWiz/Gimlet-GFI",
+        "filters": ["python", "bots"]
     }
 ]
