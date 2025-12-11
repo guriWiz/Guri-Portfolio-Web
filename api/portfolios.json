@@ -172,5 +172,20 @@
         "videogallery": false,
         "url": "https://github.com/guriWiz/Gimlet-GFI",
         "filters": ["python", "bots"]
+    },
+    {
+        "id": 12,
+        "title": "Vote Caste System (v1)",
+        "subtitle": "Vote Caste System is a centralized digital platform that simplifies election management by organizing candidates, voters, and key electoral processes in one streamlined system.",
+        "coverimage": "/images/projects/vote_caste_system_v1/cover.png",
+        "imagegallery": [   
+            "/images/projects/vote_caste_system_v1/preview_1.png",
+            "/images/projects/vote_caste_system_v1/preview_2.png",
+            "/images/projects/vote_caste_system_v1/preview_3.png",
+            "/images/projects/vote_caste_system_v1/preview_4.png"
+        ],
+        "videogallery": false,
+        "url": "https://github.com/guriWiz/Vote_Caste_System",
+        "filters": ["python", "django", "html_n_css"]
     }
 ]
