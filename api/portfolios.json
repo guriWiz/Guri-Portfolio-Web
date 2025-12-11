@@ -113,5 +113,20 @@
         "videogallery": false,
         "url": false,
         "filters": ["python", "fastapi"]
+    },
+    {
+        "id": 8,
+        "title": "OspiraX",
+        "subtitle": "Ospira blends modern child psychology with real-life parenting experience to give you a framework that actually works at home. Just simple, science-backed insights that help you understand your child clearly and respond with confidence.",
+        "coverimage": "/images/projects/ospirax/cover.png",
+        "imagegallery": [   
+            "/images/projects/ospirax/preview_1.png",
+            "/images/projects/ospirax/preview_2.png",
+            "/images/projects/ospirax/preview_3.png",
+            "/images/projects/ospirax/preview_4.png"
+        ],
+        "videogallery": false,
+        "url": "https://ospirax.com/",
+        "filters": ["python", "fastapi", "react"]
     }
 ]
