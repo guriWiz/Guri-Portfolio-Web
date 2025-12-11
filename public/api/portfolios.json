@@ -229,6 +229,20 @@
         ],
         "videogallery": false,
         "url": "https://github.com/guriWiz/Proto-1mg-Scraper",
-        "filters": ["python"]
+        "filters": ["python", "scrapers"]
+    },
+    {
+        "id": 16,
+        "title": "HumBun Scraper",
+        "subtitle": "Automatically fetches and stores detailed information about book bundles from the HumbleBundle website. It captures titles, pricing, bundle tiers, and content details, saving them directly into a database for easy access.",
+        "coverimage": "/images/projects/humbun_scraper/cover.png",
+        "imagegallery": [
+            "/images/projects/humbun_scraper/preview_1.png",
+            "/images/projects/humbun_scraper/preview_2.png",
+            "/images/projects/humbun_scraper/preview_3.png"
+        ],
+        "videogallery": false,
+        "url": "https://github.com/guriWiz/Proto-1mg-Scraper",
+        "filters": ["python", "scrapers"]
     }
 ]
