@@ -96,5 +96,22 @@
         "videogallery": false,
         "url": "https://play.google.com/store/apps/details?id=universalcaptial.newzy",
         "filters": ["python", "fastapi"]
+    },
+    {
+        "id": 7,
+        "title": "Propdesk (Real Estate)",
+        "subtitle": "Propdesk is a smart real-estate management app that lets builders easily list and update their properties while giving customers a clear, real-time view of project status. From availability and pricing to construction progress.",
+        "coverimage": "/images/projects/propdesk_real_estate/cover.jpeg",
+        "imagegallery": [   
+            "/images/projects/propdesk_real_estate/preview_1.jpeg",
+            "/images/projects/propdesk_real_estate/preview_2.jpeg",
+            "/images/projects/propdesk_real_estate/preview_3.jpeg",
+            "/images/projects/propdesk_real_estate/preview_4.jpeg",
+            "/images/projects/propdesk_real_estate/preview_5.jpeg",
+            "/images/projects/propdesk_real_estate/preview_6.jpeg"
+        ],
+        "videogallery": false,
+        "url": false,
+        "filters": ["python", "fastapi"]
     }
 ]
